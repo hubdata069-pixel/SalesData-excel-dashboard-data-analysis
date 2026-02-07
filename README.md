@@ -42,7 +42,8 @@ This project analyzes multi-year sales data to uncover trends, performance drive
 - Convert dashboard logic to Power BI
 - Add profit and margin analysis
 - Automate data refresh and validation
-
+## License
+This project is licensed under the MIT License.
 ## Author
 Adem 
 Junior Data Analyst | Excel • Power BI • Business Intelligence
