@@ -44,5 +44,5 @@ This project analyzes multi-year sales data to uncover trends, performance drive
 - Automate data refresh and validation
 
 ## Author
-Adem Abdat  
+Adem 
 Junior Data Analyst | Excel • Power BI • Business Intelligence
