@@ -1,0 +1,20 @@
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# macOS system files
+.DS_Store
+
+# Backup files
+*.bak
+*.tmp
+
+# Local data copies
+data/private/
+data/raw_backup/
+
+# Screenshots (optional)
+screenshots/tmp/
+
+# Logs
+*.log
