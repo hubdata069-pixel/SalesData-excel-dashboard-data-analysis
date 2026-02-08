@@ -47,3 +47,7 @@ This project is licensed under the MIT License.
 ## Author
 Adem 
 Junior Data Analyst | Excel • Power BI • Business Intelligence
+## Data Source
+The dataset used in this project was obtained from Excelx.com and is intended for educational and practice purposes only.
+Source: Excelx – Sales & Retail Practice Dataset
+
