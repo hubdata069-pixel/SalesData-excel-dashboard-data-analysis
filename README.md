@@ -5,6 +5,9 @@ End-to-end sales data analysis using Excel, featuring data cleaning, PivotTables
 ## Overview
 This project analyzes multi-year sales data to uncover trends, performance drivers, and optimization opportunities. The analysis was conducted using Microsoft Excel with a Power BI–style dashboard design.
 
+🔗 **Live Power BI Dashboard:**  
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjYzN2E0NWUtZDA2Mi00MTIzLWJmYzgtYTVjZWM2ZTJlZWYwIiwidCI6IjI5ZTIzNTFkLWVlNGItNGY2Yy05YzUxLThlMWFjZmM1NWM2NiIsImMiOjh9)
+
 ## Objectives
 - Clean and validate raw sales data
 - Build KPI metrics for executive reporting
